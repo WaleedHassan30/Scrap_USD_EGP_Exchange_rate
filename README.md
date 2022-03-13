@@ -1,0 +1,2 @@
+# Scrap_USD_EGP_Exchange_rate
+Scrap_USD_EGP_Exchange_rate
